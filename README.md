@@ -1,19 +1,18 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+- 🔭 Trabalhando em [Pequenos Projetos de python](https://github.com/ArthurAraujow/PythonProjects)<br>- 🌱 Estou atualmente estudando **Python, C e Lua**<br>- 👨‍💻 Meu perfil [https://github.com/ArthurAraujow](https://github.com/ArthurAraujow)<br>- 💬 Me pergunte sobre **Python**<br>
 
-- 🔭 Trabalhando em [Pequenos Projetos de python](https://github.com/ArthurAraujow/PythonProjects)
 
-- 🌱 Estou atualmente estudando **Python, C e Lua**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/araujow.1) 
 
-- 👨‍💻 Meu perfil [https://github.com/ArthurAraujow](https://github.com/ArthurAraujow)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arthuraraujow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arthuraraujow&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuraraujow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 Me pergunte sobre **Python**
+---
+[![](https://visitcount.itsvg.in/api?id=arthuraraujow&icon=0&color=1)](https://visitcount.itsvg.in)
 
-- Estou trabalhando em **estou criando uns códigos para lua, mas só vou postar quando estiver 100%**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/araujow.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="araujow.1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
