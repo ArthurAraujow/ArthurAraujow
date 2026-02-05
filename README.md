@@ -15,7 +15,7 @@ Estudo e desenvolvo projetos em **Python**, **Java** e **HTML/CSS**. Atualmente 
 
 ## 📫 Contato
 📧 arthuraraujo321@gmail.com  
-🔗 LinkedIn: (https://www.linkedin.com/in/arthur-araujo-900b01332/)
+🔗 [Meu Linkedin](https://www.linkedin.com/in/arthur-araujo-900b01332/)
 
 ---
 
